@@ -5,7 +5,7 @@
 [![cocoapods](https://img.shields.io/badge/cocoapods-supported-4BC51D.svg?style=plastic)](https://cocoapods.org/pods/JXMarqueeView)
 
 A powerful and easy to use marquee view. 
-I am go there.
+I am go there. I am best.
 
 # Features
 
