@@ -6,8 +6,6 @@
 
 A powerful and easy to use marquee view.
 
-[中文博客介绍](https://www.jianshu.com/p/835ba205453d)
-
 # Features
 
 - Automatically start marquee. (When the content beyond size, marquee start automatically.)
