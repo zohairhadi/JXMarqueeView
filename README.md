@@ -4,7 +4,8 @@
 [![platform](https://img.shields.io/badge/platform-iOS-blue.svg?style=plastic)](#)
 [![cocoapods](https://img.shields.io/badge/cocoapods-supported-4BC51D.svg?style=plastic)](https://cocoapods.org/pods/JXMarqueeView)
 
-A powerful and easy to use marquee view.
+A powerful and easy to use marquee view. 
+I am go there.
 
 # Features
 
