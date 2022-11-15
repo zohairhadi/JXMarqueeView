@@ -13,6 +13,7 @@ A powerful and easy to use marquee view.
 
 # Preview
 
+
 `JXMarqueeType.left`：From right to left
 
 ![left.gif](https://upload-images.jianshu.io/upload_images/1085173-712f04ce62c1a3bc.gif?imageMogr2/auto-orient/strip)
